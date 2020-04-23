@@ -1,0 +1,193 @@
+
+#menu{
+    background-color: black!important;
+    border-radius: 4px;
+}
+
+#menu a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+#menu img{
+    width: 70%;
+}
+
+#filtros{
+    padding: 1px;
+}
+
+footer{
+    width: 100%;
+    background-color: black;
+    color: white;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    padding: 5px;
+}
+
+footer ul{
+    list-style-type: none;
+}
+
+footer img{
+    max-width: 30%;
+    height: auto;
+}
+
+.card{
+    max-width: 30%;
+    height: auto;
+    border: 1px solid grey;
+}
+
+#tabla{
+    margin-top: 30px; 
+}
+
+#tabla th{
+    text-align: center;
+    width: 12%!important;
+}
+
+#tabla td{
+    text-align: center;
+}
+
+#tabla img{
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+
+#tabla a{
+    text-decoration: none;
+    color: white;
+}
+
+#tabla button{
+    margin: auto;
+    display: block;
+    background-color: #ff8200;
+    border-color: white;   
+}
+
+#servicios{
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border:1px solid  grey;
+    border-radius: 6px;
+}
+
+#containerInicioSesion{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#containerServicios{
+    padding: 30px;
+}
+
+#containerReg a{
+    text-decoration: none;
+}
+
+#containerReg button{
+    padding: 20px;
+    margin: auto;
+    display: block;
+    background-color: #ff8200;
+    border-color: white;
+
+}   
+
+#FormularioBusqueda{
+    padding: 3px;
+    border:1px solid  grey;
+    border-radius: 6px;
+    margin: auto;
+    text-align: center;
+}
+
+
+#FormularioBusqueda select{
+    max-width: 50%;
+    margin: auto;
+}
+
+#FormularioBusqueda button{
+    margin: auto;
+    display: block;
+    background-color: #ff8200;
+    padding: 5px;
+    border-color: white;
+}
+
+#FormularioInicio{
+    width: 50%;
+    margin: auto;
+    padding: 60px;
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+
+#FormularioInicio button{
+    margin: auto;
+    display: block;
+    background-color: #ff8200;
+    padding: 5px;
+    border-color: white;
+}
+#FormularioInicio a{
+    text-align: center;
+    display: block;
+    padding: 5px;
+}
+
+#FormularioInicio h1{
+    padding: 1px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#regProspecto, #regArrendador{
+    margin: auto;
+    padding: 1px;
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+
+#regProspecto h3, #regArrendador h3{
+    padding: 1px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#regProspecto button, #regArrendador button{
+    margin: auto;
+    display: block;
+    background-color: #ff8200;
+    padding: 5px;
+    border-color: white;;
+}
+
+
+#containerReg{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#identificacion, #reglamento, #comprobante {
+    color: white;
+}
+
+
+#imgDetalles img{
+    max-width: 50%;
+}
